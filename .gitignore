@@ -16,6 +16,7 @@
 # AWS User-specific
 .idea/**/aws.xml
 
+# ignore auto generated folder by maven build
 **/target
 
 # Generated files
